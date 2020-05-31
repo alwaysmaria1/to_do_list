@@ -6,7 +6,6 @@
 //  Copyright © 2020 Maria H. All rights reserved.
 //
 
-import Foundation
 import UIKit
 
 class ToDo {
